@@ -1,6 +1,10 @@
 # docker-shaarli
 Docker file for running Shaarli. 
 
+The automated build is located at https://registry.hub.docker.com/u/elrac/shaarli/
+
+The GitHub repo is located at https://github.com/elrac/docker-shaarli
+
 This pulls the the release from https://github.com/shaarli/Shaarli
 
 Current version 0.0.45
