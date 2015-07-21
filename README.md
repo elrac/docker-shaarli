@@ -1,2 +1,3 @@
 # docker-shaarli
-Docker file for running Shaarli
+Dockerfile for running Shaarli
+
