@@ -7,7 +7,7 @@ The GitHub repo is located at https://github.com/elrac/docker-shaarli
 
 This pulls the the release from https://github.com/shaarli/Shaarli
 
-Current version 0.0.45
+Current version 0.5.0
 
 ## From docker repos
 

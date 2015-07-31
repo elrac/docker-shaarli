@@ -14,9 +14,9 @@ RUN docker-php-ext-install gd mbstring
 
 WORKDIR /var/www/html
 
-ENV VERSION 0.0.45
+ENV VERSION 0.5.0
 
-RUN wget -O - https://github.com/shaarli/Shaarli/archive/v${VERSION}beta.tar.gz | tar zx --strip-components=1
+RUN wget -O - https://codeload.github.com/shaarli/Shaarli/tar.gz/v${VERSION} | tar zx --strip-components=1
 
 RUN chown -R www-data:www-data /var/www/html
 
